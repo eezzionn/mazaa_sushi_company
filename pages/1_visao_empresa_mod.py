@@ -286,5 +286,6 @@ with tab3:
     with st.container():
         st.sidebar.markdown("""___""")
         st.markdown('### Mapa de clusters no Festival')
+        st.markdown('### Número de vendas por região')
         # criação do Contry map
         country_maps2( df1 ) 
