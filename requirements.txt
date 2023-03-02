@@ -20,7 +20,7 @@ pyarrow==11.0.0
 pydeck==0.8.0
 Pygments==2.14.0
 Pympler==1.0.1
-pywin32==302
+pywin32==305
 rich==13.3.1
 semver==2.13.0
 smmap==5.0.0
