@@ -18,8 +18,8 @@ st.write("# Mazáá Sushi Company Growth Dashboard")
 
 st.markdown(
     """
-    Growth Dashboard foi construido para acompanhar as métricas de crescimento do Entregadores e Restaurantes.
-    ### Como utilizar ess Graowth Dashboard ?
+    Growth Dashboard foi construido para acompanhar as métricas de crescimento do Restaurante e dos Entregadores.
+    ### Como utilizar o *'Dashboard'* de crescimento ?
     - Visão Empresa:
         - Visão Gerencial: Métricas gerais de comportamento.
         - Visão Tática: Indicadores semanais de crescimento.
@@ -27,11 +27,11 @@ st.markdown(
     - Visão Entregador:
         - Acompanhamento dos indicadores semanais de crescimento.
     - Visão Restaurante:
-        - Indicadores semanis de crescimento dos restaurantes.
+        - Indicadores semanais de crescimento dos restaurantes.
         
     ### Ask for Help
     - Time de Data Science no Discord
-        - @meigarom
+        - eezzionn@gmail.com
     
     """
 
