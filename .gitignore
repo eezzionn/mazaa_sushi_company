@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# pasta local do terminal
+*.ipynb_checkpoints/
