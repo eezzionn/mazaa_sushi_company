@@ -5,13 +5,13 @@ import plotly.graph_objects as go
 import datetime as dt
 
 # bibliotecas necessárias
-import folium
 import pandas as pd
 import numpy as np
 import streamlit as st
+import folium
 
-from streamlit_folium import folium_static
 from streamlit_folium import st_folium
+from streamlit_folium import folium_static
 from folium.plugins import MarkerCluster
 from PIL import Image
 from datetime import datetime 
